@@ -1,4 +1,6 @@
  p {
      font-size: 18px; /* Text size */
     line-height: 1.5;
+    color: red;
+    background-color: wheat;
  }
